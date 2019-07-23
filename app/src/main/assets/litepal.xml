@@ -7,7 +7,7 @@
 
     <list>
         <mapping class="com.kuyun.coolweather.db.City"/>
-        <mapping class="com.kuyun.coolweather.db.Conty"/>
+        <mapping class="com.kuyun.coolweather.db.County"/>
         <mapping class="com.kuyun.coolweather.db.Province"/>
     </list>
 
